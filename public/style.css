@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text{
+    width: 300px;
+    height: 40px;
+    outline: none;
+}
+button{
+    background-color: rgba(40, 23, 126, 0.514);
+    border: none;
+    padding: 12px 30px;
+    font-size: 22px;
+    border-radius: 4px;
+}
